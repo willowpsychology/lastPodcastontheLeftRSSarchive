@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
+  <title>Last Podcast On The Left (Only new eps)</title>
+  <updated>2020-03-17T07:14:13.636992+00:00</updated>
+  <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
+  <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotlrelaxedfitmarilynmonroethepresidentsaspirin/LPOTL%20Relaxed%20Fit%20-%20Marilyn%20Monroe%20%26%20The%20Presidents%20Aspirin.mp3</id>
+    <title>Relaxed Fit: Marilyn Monroe &amp; The President's Aspirin</title>
+    <updated>2020-03-14T00:00:00+00:00</updated>
+    <content>On this Relaxed Fit episode, we delve into the salacious rumors and gossip that surrounded JFK's extramarital affairs.</content>
+    <link href="https://archive.org/download/lpotlrelaxedfitmarilynmonroethepresidentsaspirin/LPOTL%20Relaxed%20Fit%20-%20Marilyn%20Monroe%20%26%20The%20Presidents%20Aspirin.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-03-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/lpotlsshellishrebuke/LPOTL%20SS%20-%20Hellish%20Rebuke.mp3</id>
+    <title>Side Stories: Hellish Rebuke</title>
+    <updated>2020-03-13T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: an AMBER Alert case shrouded in mystery, Alex Jones gets a DWI, space bubbles, a daughter decapitates her mother, and MORE.</content>
+    <link href="https://archive.org/download/lpotlsshellishrebuke/LPOTL%20SS%20-%20Hellish%20Rebuke.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-03-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/lpotlep403jfkleeharveyoswaldpartivoswald/LPOTL%20ep%20403%20-%20JFK%20Lee%20Harvey%20Oswald%20Part%20IV%20-%20OSWALD.mp3</id>
+    <title>Episode 403: JFK / Lee Harvey Oswald Part IV - OSWALD!</title>
+    <updated>2020-03-07T00:00:00+00:00</updated>
+    <content>On episode four of our series, we cover the death of Lee Harvey Oswald himself at the hands of nightclub owner and self-described "colorful character" Jack Ruby.</content>
+    <link href="https://archive.org/download/lpotlep403jfkleeharveyoswaldpartivoswald/LPOTL%20ep%20403%20-%20JFK%20Lee%20Harvey%20Oswald%20Part%20IV%20-%20OSWALD.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-03-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/lpotlsssamuraiswordgirlfriend/LPOTL%20SS%20-%20Samurai%20Sword%20Girlfriend.mp3</id>
+    <title>Side Stories: Samurai Sword Girlfriend</title>
+    <updated>2020-03-05T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: a semen-filled syringe, a sword-wielding girlfriend, a cursed tree, AND MORE.</content>
+    <link href="https://archive.org/download/lpotlsssamuraiswordgirlfriend/LPOTL%20SS%20-%20Samurai%20Sword%20Girlfriend.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/lpotlep402jfkleeharveyoswaldpartiiitheassassination/LPOTL%20ep%20402%20-%20JFK%20Lee%20Harvey%20Oswald%20Part%20III%20-%20The%20Assassination.mp3</id>
+    <title>Episode 402: JFK / Lee Harvey Oswald Part III - The Assassination</title>
+    <updated>2020-02-29T00:00:00+00:00</updated>
+    <content>On this episode, we cover the assassination of John F. Kennedy from beginning to end, including all of the strange things that had to happen for the president to wind up dead that day along with more than a few busted myths.</content>
+    <link href="https://archive.org/download/lpotlep402jfkleeharveyoswaldpartiiitheassassination/LPOTL%20ep%20402%20-%20JFK%20Lee%20Harvey%20Oswald%20Part%20III%20-%20The%20Assassination.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-02-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/lpotlsscoronaviruscult/LPOTL%20SS%20-%20Coronavirus%20Cult.mp3</id>
+    <title>Side Stories: Coronavirus Cult</title>
+    <updated>2020-02-27T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: a South Korean Coronavirus cult, another Lori Vallow update, reviewing The Lodge, Mad Mike's rocket crash, AND MORE.</content>
+    <link href="https://archive.org/download/lpotlsscoronaviruscult/LPOTL%20SS%20-%20Coronavirus%20Cult.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-02-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/lpotlep401jfkleeharveyoswaldpartiithegreaseboy/LPOTL%20ep%20401%20-%20JFK%20Lee%20Harvey%20Oswald%20Part%20II%20-%20The%20Grease%20Boy.mp3</id>
+    <title>Episode 401: JFK / Lee Harvey Oswald Part II - The Grease Boy</title>
+    <updated>2020-02-22T00:00:00+00:00</updated>
+    <content>On the second part of our series on the JFK assassination, we cover Lee Harvey Oswald's further adventures on the road to November 22nd, including his mysterious times in New Orleans, his increasing erratic nature, and his many run-ins with the Cubans.</content>
+    <link href="https://archive.org/download/lpotlep401jfkleeharveyoswaldpartiithegreaseboy/LPOTL%20ep%20401%20-%20JFK%20Lee%20Harvey%20Oswald%20Part%20II%20-%20The%20Grease%20Boy.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-02-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/lpotlsstonguecollector/LPOTL%20SS%20-%20Tongue%20Collector.mp3</id>
+    <title>Side Stories: Tongue Collector</title>
+    <updated>2020-02-19T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: a grisly discovery prompts the question "To whom do the tongues belong?"; Papa John revisited; a kidnapped woman is forced to watch "Roots", AND MORE.</content>
+    <link href="https://archive.org/download/lpotlsstonguecollector/LPOTL%20SS%20-%20Tongue%20Collector.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-02-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/lpotlep400jfkleeharveyoswaldpartilonenut/LPOTL%20ep%20400%20-%20JFK%20Lee%20Harvey%20Oswald%20Part%20I%20-%20Lone%20Nut.mp3</id>
+    <title>Episode 400: JFK / Lee Harvey Oswald Part I - Lone Nut</title>
+    <updated>2020-02-14T00:00:00+00:00</updated>
+    <content>On this, our 400th episode, we finally begin a deep dive into the vast lore surrounding the assassination of John F. Kennedy, starting with the life of one of the central characters in the story, Lee Harvey Oswald.</content>
+    <link href="https://archive.org/download/lpotlep400jfkleeharveyoswaldpartilonenut/LPOTL%20ep%20400%20-%20JFK%20Lee%20Harvey%20Oswald%20Part%20I%20-%20Lone%20Nut.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-02-14T00:00:00+00:00</published>
+  </entry>
+</feed>
