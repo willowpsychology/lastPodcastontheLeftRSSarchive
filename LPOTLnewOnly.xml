@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-04-16T01:02:36.189800+00:00</updated>
+  <updated>2020-04-18T07:44:06.829158+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-ep-407-the-yorkshire-ripper-part-i-john-carpenters-fonzie/LPOTL%20ep%20407%20-%20The%20Yorkshire%20Ripper%20Part%20I%20-%20John%20Carpenters%20Fonzie.mp3</id>
+    <title>Episode 407: The Yorkshire Ripper Part I - John Carpenter's Fonzie</title>
+    <updated>2020-04-18T00:00:00+00:00</updated>
+    <content>On the first episode on Peter Sutcliffe, aka the Yorkshire Ripper, we cover one of England's most infamous serial killers, from his strange childhood to his eventual reign of terror perpetrated on the women of West Yorkshire.</content>
+    <link href="https://archive.org/download/lpotl-ep-407-the-yorkshire-ripper-part-i-john-carpenters-fonzie/LPOTL%20ep%20407%20-%20The%20Yorkshire%20Ripper%20Part%20I%20-%20John%20Carpenters%20Fonzie.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-04-18T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotlsspsychicnukes/LPOTL%20SS%20-%20Psychic%20Nukes.mp3</id>
     <title>Side Stories: Psychic Nukes</title>
