@@ -2,11 +2,27 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2020-04-17T06:17:34.420950+00:00</updated>
+  <updated>2020-04-26T14:42:55.055614+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-ep-489-never-tell/ALTH%20ep%20489%20-%20Never%20Tell.mp3</id>
+    <title>Episode 489: Never Tell</title>
+    <updated>2020-04-25T00:00:00+00:00</updated>
+    <content>Ben and Travis talk astroturfing, big businesses exploiting loopholes in small business relief funds and Biden's lackluster response to Coronavirus.</content>
+    <link href="https://archive.org/download/alth-ep-489-never-tell/ALTH%20ep%20489%20-%20Never%20Tell.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-04-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/alth-best-of-andrew-yang/ALTH%20best%20of%20-%20Andrew%20Yang.mp3</id>
+    <title>Best of Top Hat: Andrew Yang</title>
+    <updated>2020-04-23T00:00:00+00:00</updated>
+    <content>We revisit our interview with Andrew Yang! To listen to the whole episode search for Episode 431: Nothing is on the Level.</content>
+    <link href="https://archive.org/download/alth-best-of-andrew-yang/ALTH%20best%20of%20-%20Andrew%20Yang.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-04-23T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-ep-488-the-politics-of-spite/ALTH%20ep%20488%20-%20The%20Politics%20of%20Spite.mp3</id>
     <title>Episode 488: The Politics of Spite</title>
