@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-05-14T07:05:10.253576+00:00</updated>
+  <updated>2020-05-16T12:07:59.544415+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-ep-410-madame-blavatsky-part-i-theres-something-wrong-with-jimmy/LPOTL%20ep%20410%20-%20Madame%20Blavatsky%20Part%20I%20-%20Theres%20Something%20Wrong%20With%20Jimmy.mp3</id>
+    <title>Episode 410: Madame Blavatsky Part I - There's Something Wrong With Jimmy</title>
+    <updated>2020-05-16T00:00:00+00:00</updated>
+    <content>It's finally time for us to explore the life of one of the most famous occultists of all time: Madame Helena Blavatsky. Join us on this first part as we mostly cover the veiled years of Blavatsky's life, when she supposedly travelled the world and formed the knowledge base for what would prove to be the blueprints for 20th century occultism.</content>
+    <link href="https://archive.org/download/lpotl-ep-410-madame-blavatsky-part-i-theres-something-wrong-with-jimmy/LPOTL%20ep%20410%20-%20Madame%20Blavatsky%20Part%20I%20-%20Theres%20Something%20Wrong%20With%20Jimmy.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-05-16T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-ss-constipated-lizard/LPOTL%20SS%20-%20Constipated%20Lizard.mp3</id>
     <title>Side Stories: Constipated Lizard</title>
