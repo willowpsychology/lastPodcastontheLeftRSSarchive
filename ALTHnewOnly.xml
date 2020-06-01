@@ -2,11 +2,27 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2020-05-20T12:55:19.633262+00:00</updated>
+  <updated>2020-06-01T22:47:15.759014+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-ep-494-maga-night/ALTH%20ep%20494%20-%20MAGA%20Night.mp3</id>
+    <title>Episode 494: MAGA Night </title>
+    <updated>2020-05-31T00:00:00+00:00</updated>
+    <content>Ben and Travis cover the murder of George Floyd, the resulting protests, and Trump advocating for violence against US citizens.</content>
+    <link href="https://archive.org/download/alth-ep-494-maga-night/ALTH%20ep%20494%20-%20MAGA%20Night.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-05-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/alth-ep-493-victim-in-chief/ALTH%20ep%20493%20-%20Victim%20in%20Chief.mp3</id>
+    <title>Episode 493: Victim in Chief</title>
+    <updated>2020-05-23T00:00:00+00:00</updated>
+    <content>Ben and Travis discuss the HEROES Act, Biden's latest gaffe and Amazon cutting employee's hazard pay.</content>
+    <link href="https://archive.org/download/alth-ep-493-victim-in-chief/ALTH%20ep%20493%20-%20Victim%20in%20Chief.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-05-23T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-best-of-marianne-williamson/ALTH%20best%20of%20-%20Marianne%20Williamson.mp3</id>
     <title>Best of Top Hat: Marianne Williamson</title>
