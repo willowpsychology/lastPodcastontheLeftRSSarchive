@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-05-30T11:34:42.334629+00:00</updated>
+  <updated>2020-06-04T07:34:21.713550+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-ss-dont-eat-grandma/LPOTL%20SS%20-%20Dont%20Eat%20Grandma.mp3</id>
+    <title>Side Stories: Don't Eat Grandma</title>
+    <updated>2020-06-04T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime stories: an assault case involving a large pickle, a Carole Baskins update, a cannibal with a hankerin' for grandmas, and a look at the protests currently happening across the United States.</content>
+    <link href="https://archive.org/download/lpotl-ss-dont-eat-grandma/LPOTL%20SS%20-%20Dont%20Eat%20Grandma.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-06-04T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-ep-412-madame-blavatsky-part-iii-the-secret-doctrine/LPOTL%20ep%20412%20-%20Madame%20Blavatsky%20Part%20III%20-%20The%20Secret%20Doctrine.mp3</id>
     <title>Episode 412: Madame Blavatsky Part III - The Secret Doctrine</title>
