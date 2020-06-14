@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2020-06-07T05:36:52.487137+00:00</updated>
+  <updated>2020-06-14T05:47:23.170669+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-ep-496-scorched-earth-politics/ALTH%20ep%20496%20-%20Scorched%20Earth%20Politics.mp3</id>
+    <title>Episode 496: Scorched Earth Politics</title>
+    <updated>2020-06-14T00:00:00+00:00</updated>
+    <content>Ben and Travis discussed the toppling of Confederate statues, the trickle-down of weapons from the military to the police and the Capitol Hill Autonomous Zone.</content>
+    <link href="https://archive.org/download/alth-ep-496-scorched-earth-politics/ALTH%20ep%20496%20-%20Scorched%20Earth%20Politics.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-06-14T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-ep-495-believe-what-you-hear-believe-what-you-see/ALTH%20ep%20495%20-%20Believe%20What%20You%20Hear%2C%20Believe%20What%20You%20See.mp3</id>
     <title>Episode 495: Believe What You Hear, Believe What You See</title>
