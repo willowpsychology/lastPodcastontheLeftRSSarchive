@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-06-25T00:33:10.227448+00:00</updated>
+  <updated>2020-06-27T04:24:32.028653+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-ep-415-the-tall-whites/LPOTL%20ep%20415%20-%20The%20Tall%20Whites.mp3</id>
+    <title>Episode 415: The Tall Whites</title>
+    <updated>2020-06-27T00:00:00+00:00</updated>
+    <content>On today's episode, we explore the world of the chalky alien species known as the Tall Whites, who terrorized a young airman in the Mojave Desert for two years back in the late sixties as a part of a secret liaison program with the United States government. Allegedly.</content>
+    <link href="https://archive.org/download/lpotl-ep-415-the-tall-whites/LPOTL%20ep%20415%20-%20The%20Tall%20Whites.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-06-27T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-ss-randonauts/LPOTL%20SS%20-%20Randonauts.mp3</id>
     <title>Side Stories: Randonauts</title>
