@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2020-08-01T07:51:50.087869+00:00</updated>
+  <updated>2020-08-10T05:08:48.818876+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-ep-504-scoochin-for-a-mnuchin/ALTH%20ep%20504%20-%20Scoochin%20for%20a%20Mnuchin.mp3</id>
+    <title>Episode 504: Scoochin for a Mnuchin</title>
+    <updated>2020-08-10T00:00:00+00:00</updated>
+    <content>We cover the 4 executive orders signed by Trump this week, the Beirut explosion and Biden's latest gaffe.
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/alth-ep-504-scoochin-for-a-mnuchin/ALTH%20ep%20504%20-%20Scoochin%20for%20a%20Mnuchin.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-08-10T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-ep-503-the-heels-act/ALTH%20ep%20503%20-%20The%20HEELS%20Act.mp3</id>
     <title>Episode 503: The HEELS Act</title>
