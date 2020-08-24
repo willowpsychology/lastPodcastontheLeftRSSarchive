@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>8b2a916a-466a-4dd5-85ef-9632d71936b8</id>
+  <title>Wizard and the Bruiser</title>
+  <updated>2020-08-24T15:29:03.217200+00:00</updated>
+  <link href="https://www.lastpodcastnetwork.com/wizard-and-the-bruiser"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://ssl-static.libsyn.com/p/assets/a/2/c/e/a2ce060aa9ac379d/avatars-000482263881-pnkrae-original.jpg</logo>
+  <subtitle>Holden McNeely and Jake Young are your guides on a psychotropic journey into the secret origins of nerd culture. Fill your ears with education each week  as the hosts tackle subjects from the worlds of comic books, video games, anime and film. Untold stories, bizarre facts and crazed deconstructions will fly at you at dangerous speeds, do not listen if you are pregnant or nursing. Make no mistake, this IS the sweatiest podcast in human history.</subtitle>
+  <entry>
+    <id>https://archive.org/download/wizbru-overwatch/WATB%20-%20Overwatch.mp3</id>
+    <title>Overwatch</title>
+    <updated>2016-09-22T00:00:00+00:00</updated>
+    <content>Holden, Jake and super producer Marcus talk about the hit Blizzard game Overwatch, debate whether it is a MOBA or not, confront #ButtGate, go through the playable characters and claim their Overwaifus.
+Check out Holden at HoldenMcNeely.com and on his Twitch stream Twitch.tv/HoldenatorsHo
+Follow Jake Young on Twitter @BestJakeYoung like and share his work on Dorkly.com!</content>
+    <link href="https://archive.org/download/wizbru-overwatch/WATB%20-%20Overwatch.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2016-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/wizbru-gundam/WATB%20-%20Gundam.mp3</id>
+    <title>Gundam</title>
+    <updated>2016-09-15T00:00:00+00:00</updated>
+    <content>Jake, Holden and super producer Marcus take on the epic series Mobile Suit Gundam including the show, toys, legendary influence that it had on the entire super robot genre and more!</content>
+    <link href="https://archive.org/download/wizbru-gundam/WATB%20-%20Gundam.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2016-09-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://archive.org/download/wizbru-sonic-the-hedgehog/WATB%20-%20Sonic%20the%20Hedgehog.mp3</id>
+    <title>Sonic the Hedgehog</title>
+    <updated>2016-09-08T00:00:00+00:00</updated>
+    <content>Jake, Holden and super producer Marcus discuss the rise, fall and everything in between about the classic video game character Sonic the Hedgehog in this inaugural episode of Wizard and the Bruiser!</content>
+    <link href="https://archive.org/download/wizbru-sonic-the-hedgehog/WATB%20-%20Sonic%20the%20Hedgehog.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2016-09-08T00:00:00+00:00</published>
+  </entry>
+</feed>
