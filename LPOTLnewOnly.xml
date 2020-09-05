@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-09-03T03:01:40.541530+00:00</updated>
+  <updated>2020-09-05T09:27:06.334793+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-episode-422-the-1971-manson-family-western-surplus-shootout/LPOTL%20ep%20422%20-%20The%201971%20Manson%20Family%20Western%20Surplus%20Shootout.mp3</id>
+    <title>Episode 422: The 1971 Manson Family Western Surplus Shootout</title>
+    <updated>2020-09-05T00:00:00+00:00</updated>
+    <content>This week, we recount the bizarre scheme by the Manson family to save Charles Manson from prison and the famous shootout that ensued between the would-be rescue party and the Hawthorne police department. Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-episode-422-the-1971-manson-family-western-surplus-shootout/LPOTL%20ep%20422%20-%20The%201971%20Manson%20Family%20Western%20Surplus%20Shootout.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-09-05T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-side-stories-political-immunity/LPOTL%20SS%20-%20Political%20Immunity.mp3</id>
     <title>Side Stories: Political Immunity</title>
