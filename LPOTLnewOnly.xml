@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-09-12T05:28:44.629423+00:00</updated>
+  <updated>2020-09-17T01:07:22.739548+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-slovenian-hand-scam/LPOTL%20SS%20-%20Slovenian%20Hand%20Scam.mp3</id>
+    <title>Side Stories: Slovenian Hand Scam</title>
+    <updated>2020-09-17T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: Charles Manson's daughter orders tacos, mysterious seeds are being delivered to Americans, a Slovenian insurance scheme that gets a bit out of hand, and MUCH MORE.</content>
+    <link href="https://archive.org/download/lpotl-side-stories-slovenian-hand-scam/LPOTL%20SS%20-%20Slovenian%20Hand%20Scam.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-09-17T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-episode-423-arthur-shawcross-part-i-welcome-to-watertown/LPOTL%20ep%20423%20-%20Arthur%20Shawcross%20Part%20I%20-%20Welcome%20to%20Watertown.mp3</id>
     <title>Episode 423: Arthur Shawcross Part I - Welcome to Watertown</title>
