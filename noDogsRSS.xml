@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>8e00960f-17ac-476d-b394-1603394e678b</id>
   <title>No Dogs in Space</title>
-  <updated>2020-11-14T17:24:30.558301+00:00</updated>
+  <updated>2020-11-19T21:18:50.543515+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/no-dogs-in-space/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>No Dogs In Space is a music history podcast featuring Marcus Parks and Carolina Hidalgo of the Last Podcast Network. On this first season, we're taking a deep dive into the history of punk rock, told through the stories of ten bands who helped define the genre.</subtitle>
+  <entry>
+    <id>https://archive.org/download/no-dogs-joy-division-pt-ii/no%20dogs%20Joy%20Division%20Pt%20II.mp3</id>
+    <title>Joy Division Pt II</title>
+    <updated>2020-11-19T00:00:00+00:00</updated>
+    <content>On the second part of our series on Joy Division,, we cover the year the musical evolution of the band from their beginnings as a fairly typical British punk band to their eventual post-punk breakthrough, as well as the infamous origins of their name.. / Go to http://everyplate.com and enter code NODOGS3 to get 3 weeks of EveryPlate meals for only $2.99 per meal! / Song: No Rings by Keepers / Follow Marcus on Spotify to listen to all of the songs used in this episode / Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/no-dogs-joy-division-pt-ii/no%20dogs%20Joy%20Division%20Pt%20II.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-11-19T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/no-dogs-joy-division-pt-i/no%20dogs%20Joy%20Division%20Pt%20I.mp3</id>
     <title>Joy Division Pt I</title>
