@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-11-20T20:00:39.030833+00:00</updated>
+  <updated>2020-11-25T23:19:11.411815+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-dune-the-duke-of-caladan-an-interview-w_-brian-herbert-and-kevin-anderson/LPOTL%20Dune%20-%20The%20Duke%20of%20Caladan%20-%20An%20Interview%20w_%20Brian%20Herbert%20%26%20Kevin%20Anderson.mp3</id>
+    <title>Dune: The Duke of Caladan - An Interview w/ Brian Herbert &amp; Kevin Anderson</title>
+    <updated>2020-11-25T00:00:00+00:00</updated>
+    <content>Side Stories is taking this week off for Thanksgiving, so instead of a regular episode, here's a Patreon interview that Ben 'n' Henry did with Brian Herbert and Kevin Anderson — authors of the new book DUNE: THE DUKE OF CALADAN. Side Stories will be back next week. Happy Thanksgiving and hail yourselves. Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-dune-the-duke-of-caladan-an-interview-w_-brian-herbert-and-kevin-anderson/LPOTL%20Dune%20-%20The%20Duke%20of%20Caladan%20-%20An%20Interview%20w_%20Brian%20Herbert%20%26%20Kevin%20Anderson.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-11-25T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-relaxed-fit-the-secret-knowledge-of-the-crystal-skulls/LPOTL%20Relaxed%20Fit%20-%20The%20Secret%20Knowledge%20of%20the%20Crystal%20Skulls.mp3</id>
     <title>Relaxed Fit: The Secret Knowledge of the Crystal Skulls</title>
