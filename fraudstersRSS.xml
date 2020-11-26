@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2020-11-19T15:53:59.350078+00:00</updated>
+  <updated>2020-11-26T15:59:13.121818+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-14-kevin-trudeau-part-i-how-to-get-banned-from-infomercials/fraud%20ep%2014%20-%20Kevin%20Trudeau%20Part%20I%20%E2%80%94%20How%20to%20Get%20Banned%20from%20Infomercials.mp3</id>
+    <title>Episode 14: Kevin Trudeau Part I — How to Get Banned from Infomercials</title>
+    <updated>2020-11-26T00:00:00+00:00</updated>
+    <content>In Part I of our series on the notorious infomercial scammer Kevin Trudeau we cover how to give yourself mega-memory, break any addiction 100% of the time, and all the other things THEY don't want you to know about!</content>
+    <link href="https://archive.org/download/fraud-episode-14-kevin-trudeau-part-i-how-to-get-banned-from-infomercials/fraud%20ep%2014%20-%20Kevin%20Trudeau%20Part%20I%20%E2%80%94%20How%20to%20Get%20Banned%20from%20Infomercials.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-11-26T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-13-fraud-reich-part-ii-the-good-ole-spear-of-destiny/fraud%20ep%2013%20-%20Fraud%20Reich%20Part%20II%20%E2%80%93%20The%20Good%20Ole%20%E2%80%9CSpear%20of%20Destiny%E2%80%9D.mp3</id>
     <title>Episode 13: Fraud Reich Part II – The Good Ole “Spear of Destiny”</title>
