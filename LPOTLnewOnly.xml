@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-11-25T23:19:11.411815+00:00</updated>
+  <updated>2020-11-28T00:34:16.222173+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-best-of-cannibalism/LPOTL%20Best%20Of%20-%20Cannibalism.mp3</id>
+    <title>Best Of: Cannibalism</title>
+    <updated>2020-11-27T00:00:00+00:00</updated>
+    <content>It's the day after Thanksgiving, and each of us are currently in a tryptophan-induced coma. So instead of a regular episode, today we bring you a Thanksgiving-inspired "Best Of" episode featuring the gnarliest bits of cannibalism we've ever described on the show. We'll be back to normal next week but today is WHEN THE CANNIBALISM STARTED. Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-best-of-cannibalism/LPOTL%20Best%20Of%20-%20Cannibalism.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-11-27T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-dune-the-duke-of-caladan-an-interview-w_-brian-herbert-and-kevin-anderson/LPOTL%20Dune%20-%20The%20Duke%20of%20Caladan%20-%20An%20Interview%20w_%20Brian%20Herbert%20%26%20Kevin%20Anderson.mp3</id>
     <title>Dune: The Duke of Caladan - An Interview w/ Brian Herbert &amp; Kevin Anderson</title>
