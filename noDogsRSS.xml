@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>8e00960f-17ac-476d-b394-1603394e678b</id>
   <title>No Dogs in Space</title>
-  <updated>2020-11-19T21:18:50.543515+00:00</updated>
+  <updated>2020-12-03T21:16:38.462942+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/no-dogs-in-space/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>No Dogs In Space is a music history podcast featuring Marcus Parks and Carolina Hidalgo of the Last Podcast Network. On this first season, we're taking a deep dive into the history of punk rock, told through the stories of ten bands who helped define the genre.</subtitle>
+  <entry>
+    <id>https://archive.org/download/no-dogs-joy-division-pt-iii/no%20dogs%20Joy%20Division%20Pt%20III.mp3</id>
+    <title>Joy Division Pt III</title>
+    <updated>2020-12-03T00:00:00+00:00</updated>
+    <content>In this the third chapter of our series on Joy Division,, we explore the band's early missteps in finding their footing in the Manchester punk scene while simultaneously discovering their signature style, as well as the details behind the innovative recording sessions that lead to the release of their most renowned album, Unknown Pleasures.. / Get $5 off and zero delivery fees on your first order of $15 or more when you download the DoorDash app and enter code NODOGS. / Go to http://expressvpn.com/nodogs to get an extra 3 months of ExpressVPN for free! / Song: “Switchblade” by The Jive Hounds / Follow Marcus on Spotify to listen to all of the songs used in this episode / Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/no-dogs-joy-division-pt-iii/no%20dogs%20Joy%20Division%20Pt%20III.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-12-03T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/no-dogs-joy-division-pt-ii/no%20dogs%20Joy%20Division%20Pt%20II.mp3</id>
     <title>Joy Division Pt II</title>
