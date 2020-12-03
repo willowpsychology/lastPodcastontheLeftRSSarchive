@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2020-11-26T15:59:13.121818+00:00</updated>
+  <updated>2020-12-03T15:39:07.717315+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-15-kevin-trudeau-part-2-a-colonic-a-day-keeps-the-doctor/fraud%20ep%2015%20-%20Kevin%20Trudeau%20Part%202%20%E2%80%93%20A%20Colonic%20a%20Day%20Keeps%20the%20Doctor.mp3</id>
+    <title>Episode 15: Kevin Trudeau Part 2 – A Colonic a Day Keeps the Doctor</title>
+    <updated>2020-12-03T00:00:00+00:00</updated>
+    <content>In Part II of our series on the notorious infomercial scammer Kevin Trudeau we cover how to lose 300 pounds in 30 minutes, go to prison sleep-away camp, and get a presidential pardon! / Special thanks to Howard Beales, Former Director of the Bureau of Consumer Protection at the FTC, for a wonderful conversation.</content>
+    <link href="https://archive.org/download/fraud-episode-15-kevin-trudeau-part-2-a-colonic-a-day-keeps-the-doctor/fraud%20ep%2015%20-%20Kevin%20Trudeau%20Part%202%20%E2%80%93%20A%20Colonic%20a%20Day%20Keeps%20the%20Doctor.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-12-03T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-14-kevin-trudeau-part-i-how-to-get-banned-from-infomercials/fraud%20ep%2014%20-%20Kevin%20Trudeau%20Part%20I%20%E2%80%94%20How%20to%20Get%20Banned%20from%20Infomercials.mp3</id>
     <title>Episode 14: Kevin Trudeau Part I — How to Get Banned from Infomercials</title>
