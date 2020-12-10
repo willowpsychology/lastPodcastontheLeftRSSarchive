@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2020-12-03T15:39:07.717315+00:00</updated>
+  <updated>2020-12-10T15:49:47.926239+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-16-kevin-trudeau-part-iii/fraud%20ep%2016%20-%20Kevin%20Trudeau%20Part%20III%20%E2%80%94%20the%20Global%20Information%20Network%20of%20Illuminati%20and%2014%20CDs.mp3</id>
+    <title>Episode 16: Kevin Trudeau Part III — the Global Information Network of Illuminati and 14 CDs</title>
+    <updated>2020-12-10T00:00:00+00:00</updated>
+    <content>On the final episode of our series on Kevin Trudeau, we delve into one of his most recent and most outrageous scams – a multilevel marketing company called the Global Information Network that promised secrets of the illuminati, ferraris, and inner peace. All for the low low price of many thousands of dollars, recruiting your friends and family, and giving up things you love to become "coachable." / Special thanks to Linnea, former GIN member, for a sharing her experience. / Special thanks to Edward Balleisen, fraud expert and author of Fraud: An American History from Barnum to Madoff, for his insights. Special thanks to Cosmic Connie of Whirled Musings for sharing her wealth of knowledge on GIN with us.</content>
+    <link href="https://archive.org/download/fraud-episode-16-kevin-trudeau-part-iii/fraud%20ep%2016%20-%20Kevin%20Trudeau%20Part%20III%20%E2%80%94%20the%20Global%20Information%20Network%20of%20Illuminati%20and%2014%20CDs.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-12-10T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-15-kevin-trudeau-part-2-a-colonic-a-day-keeps-the-doctor/fraud%20ep%2015%20-%20Kevin%20Trudeau%20Part%202%20%E2%80%93%20A%20Colonic%20a%20Day%20Keeps%20the%20Doctor.mp3</id>
     <title>Episode 15: Kevin Trudeau Part 2 – A Colonic a Day Keeps the Doctor</title>
