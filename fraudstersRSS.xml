@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2020-12-10T15:49:47.926239+00:00</updated>
+  <updated>2020-12-17T17:11:19.815879+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-17-barry-minkow-part-i/fraud%20ep%2017%20-%20Barry%20Minkow%20Part%20I%20%E2%80%93%20ZZZZ%20Best%20Carpet%20Cleaning%20and%20ZZZZ%20Worst%20Fraudster.mp3</id>
+    <title>Episode 17: Barry Minkow Part I – ZZZZ Best Carpet Cleaning and ZZZZ Worst Fraudster</title>
+    <updated>2020-12-17T00:00:00+00:00</updated>
+    <content>Episode 17 kicks off our mini-series on possibly our worst fraudster yet - Barry Minkow. Part I is devoted to his youth and only his youth. Barry as a teen committed more fraud than most could in a lifetime–from securities fraud to check kiting to credit card fraud to carpet cleaning cons–all while in the company of nazis and mobsters.</content>
+    <link href="https://archive.org/download/fraud-episode-17-barry-minkow-part-i/fraud%20ep%2017%20-%20Barry%20Minkow%20Part%20I%20%E2%80%93%20ZZZZ%20Best%20Carpet%20Cleaning%20and%20ZZZZ%20Worst%20Fraudster.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-12-17T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-16-kevin-trudeau-part-iii/fraud%20ep%2016%20-%20Kevin%20Trudeau%20Part%20III%20%E2%80%94%20the%20Global%20Information%20Network%20of%20Illuminati%20and%2014%20CDs.mp3</id>
     <title>Episode 16: Kevin Trudeau Part III — the Global Information Network of Illuminati and 14 CDs</title>
