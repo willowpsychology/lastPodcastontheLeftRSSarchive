@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-12-12T09:23:37.916000+00:00</updated>
+  <updated>2020-12-17T00:40:43.644245+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-sticky-space-odyssey/LPOTL%20SS%20-%20Sticky%20Space%20Odyssey.mp3</id>
+    <title>Side Stories: Sticky Space Odyssey</title>
+    <updated>2020-12-16T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: the Zodiac's riddle is solved, poop in space, a personal trainer decapitates his kids, Chupacabras in Russia, and MUCH MORE. Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-side-stories-sticky-space-odyssey/LPOTL%20SS%20-%20Sticky%20Space%20Odyssey.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-12-16T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-episode-434-roch-theriault-and-the-ant-hill-kids-part-i-dumping-syndrome/LPOTL%20ep%20434%20-%20Roch%20Th%C3%A9riault%20%26%20The%20Ant%20Hill%20Kids%20Part%20I%20-%20D%C3%BCmping%20Syndrome.mp3</id>
     <title>Episode 434: Roch Thériault &amp; The Ant Hill Kids Part I - Dümping Syndrome</title>
