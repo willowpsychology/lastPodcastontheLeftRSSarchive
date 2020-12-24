@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-12-19T08:15:03.469888+00:00</updated>
+  <updated>2020-12-24T10:09:10.095924+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-heartless/LPOTL%20SS%20-%20Heartless.mp3</id>
+    <title>Side Stories: Heartless</title>
+    <updated>2020-12-23T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: fake meat on the rise, an influencer-wannabe rips her mom's heart out, and MUCH MORE. Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-side-stories-heartless/LPOTL%20SS%20-%20Heartless.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-12-23T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-episode-435-roch-theriault-and-the-ant-hill-kids-part-ii/LPOTL%20ep%20435%20-%20Roch%20Th%C3%A9riault%20%26%20The%20Ant%20Hill%20Kids%20Part%20II%20-%20They%20Are%20Happy%20And%20Free%20To%20Leave.mp3</id>
     <title>Episode 435: Roch Thériault &amp; The Ant Hill Kids Part II - They Are Happy And Free To Leave</title>
