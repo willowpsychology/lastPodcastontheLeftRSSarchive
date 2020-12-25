@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2020-12-24T10:09:10.095924+00:00</updated>
+  <updated>2020-12-25T20:27:33.945486+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-best-of-xmas-edition/LPOTL%20Best%20Of%20-%20Xmas%20Edition.mp3</id>
+    <title>Best Of: Xmas Edition</title>
+    <updated>2020-12-25T00:00:00+00:00</updated>
+    <content>In this Best Of, we've compiled some of the darkest Christmas moments from throughout our show's history. So, gather 'round the yule log. Light a massive hog's leg. And try to forget the giant elderly man — dressed in a blood-red suit — who entered your home last night only to leave a mysterious package, upon which your name is crudely written. Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-best-of-xmas-edition/LPOTL%20Best%20Of%20-%20Xmas%20Edition.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-12-25T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-side-stories-heartless/LPOTL%20SS%20-%20Heartless.mp3</id>
     <title>Side Stories: Heartless</title>
