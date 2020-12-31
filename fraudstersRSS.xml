@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2020-12-24T15:34:12.272559+00:00</updated>
+  <updated>2020-12-31T15:58:31.523357+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-19-barry-minkow-part-iii/fraud%20ep%2019%20-%20Barry%20Minkow%20Part%20III%20%E2%80%93%20All%20the%20Movie%20Magic%20in%20Hollywood%20Couldnt%20Save%20this%20Flick.mp3</id>
+    <title>Episode 19: Barry Minkow Part III – All the Movie Magic in Hollywood Couldn't Save this Flick</title>
+    <updated>2020-12-31T00:00:00+00:00</updated>
+    <content>Ever wondered what a real movie set is like? How about a movie set with mobsters, Star Wars, and a con-man at the helm? Tune in for the third installment of our mini-series on Barry Minkow and a behind the scenes look at possibly the worst movie ever made. Special thanks to Jonathan Meyer–script doctor and screenwriter–for his insider insights and hilarious anecdotes. Check out his awesome new radio serial on a serial killer: Midnight Tales From The Bluff City right after you listen to Fraudsters!</content>
+    <link href="https://archive.org/download/fraud-episode-19-barry-minkow-part-iii/fraud%20ep%2019%20-%20Barry%20Minkow%20Part%20III%20%E2%80%93%20All%20the%20Movie%20Magic%20in%20Hollywood%20Couldnt%20Save%20this%20Flick.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2020-12-31T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-18-barry-minkow-part-ii-the-triple-double-of-frauds/fraud%20ep%2018%20-%20Barry%20Minkow%20Part%20II%20%E2%80%93%20The%20Triple%20Double%20of%20Frauds.mp3</id>
     <title>Episode 18: Barry Minkow Part II – The Triple Double of Frauds</title>
