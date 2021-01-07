@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2020-12-31T15:58:31.523357+00:00</updated>
+  <updated>2021-01-07T16:45:39.418177+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-20-race-hustlers-part-i-david-duke-grand-wizard-of-racism-inc/fraud%20ep%2020%20-%20Race%20Hustlers%20Part%20I%20%E2%80%94%20David%20Duke%2C%20Grand%20Wizard%20of%20Racism%20INC.mp3</id>
+    <title>Episode 20: Race Hustlers Part I — David Duke, Grand Wizard of Racism INC.</title>
+    <updated>2021-01-07T00:00:00+00:00</updated>
+    <content>You know David Duke the racist, but do you know David Duke the con artist? What's that? You don't want to know David Duke at all? This is Part I of our newest mini-series, Race Hustlers, on con artists who leverage race as a part of their scams. / Special thanks to Marilyn Mayo of the Anti Defamation League for sharing her wisdom with us for this episode.</content>
+    <link href="https://archive.org/download/fraud-episode-20-race-hustlers-part-i-david-duke-grand-wizard-of-racism-inc/fraud%20ep%2020%20-%20Race%20Hustlers%20Part%20I%20%E2%80%94%20David%20Duke%2C%20Grand%20Wizard%20of%20Racism%20INC.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-01-07T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-19-barry-minkow-part-iii/fraud%20ep%2019%20-%20Barry%20Minkow%20Part%20III%20%E2%80%93%20All%20the%20Movie%20Magic%20in%20Hollywood%20Couldnt%20Save%20this%20Flick.mp3</id>
     <title>Episode 19: Barry Minkow Part III – All the Movie Magic in Hollywood Couldn't Save this Flick</title>
