@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-01-07T16:45:39.418177+00:00</updated>
+  <updated>2021-01-14T17:24:04.657964+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-21-race-hustlers-part-ii/fraud%20ep%2021%20-%20Race%20Hustlers%20Part%20II%20%E2%80%93%20Dr%20Umar%2C%20the%20PayPal%20Prince%20of%20Pan-Afrikanism.mp3</id>
+    <title>Episode 21: Race Hustlers Part II – Dr. Umar, the PayPal Prince of Pan-Afrikanism</title>
+    <updated>2021-01-14T00:00:00+00:00</updated>
+    <content>Part II of Race Hustlers features a new huckster: Dr. Umar Johnson – the self proclaimed Prince of Pan-Afrikanism and / "most influential Black scholar in the world." While not yet convicted by a court of law, citizen journalists and Black media outlets have been speculating on and interrogating this man for years about his beliefs, his credentials, and the school that Dr. Umar has been fundraising for for nearly a decade. Will the Frederick Douglass Marcus Garvey RBG Leadership Academy for Black Boys ever materialize or is it just another con-artist's ruse to pocket good faith donations? / Special thanks to Lisa Kelly-Vance for consulting on this episode. / Thanks to all those who shared their Dr. Umar stories online and made this episode possible.</content>
+    <link href="https://archive.org/download/fraud-episode-21-race-hustlers-part-ii/fraud%20ep%2021%20-%20Race%20Hustlers%20Part%20II%20%E2%80%93%20Dr%20Umar%2C%20the%20PayPal%20Prince%20of%20Pan-Afrikanism.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-01-14T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-20-race-hustlers-part-i-david-duke-grand-wizard-of-racism-inc/fraud%20ep%2020%20-%20Race%20Hustlers%20Part%20I%20%E2%80%94%20David%20Duke%2C%20Grand%20Wizard%20of%20Racism%20INC.mp3</id>
     <title>Episode 20: Race Hustlers Part I — David Duke, Grand Wizard of Racism INC.</title>
