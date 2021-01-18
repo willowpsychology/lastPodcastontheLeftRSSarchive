@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-01-11T04:39:56.332118+00:00</updated>
+  <updated>2021-01-18T05:30:26.332840+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-527-down-with-the-q/ALTH%20ep%20527%20-%20Down%20With%20The%20Q.mp3</id>
+    <title>Episode 527: Down With The Q</title>
+    <updated>2021-01-18T00:00:00+00:00</updated>
+    <content>This week, a very special double interview episode! Ben is first joined by Devram Stiefler &amp; Jason Selvig (The Good Liars) to discuss their on the ground experiences at the Capitol storming. Then Ben is joined by Thomas View (QAnon Anonymous) to discuss the QAnon movement.
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/alth-episode-527-down-with-the-q/ALTH%20ep%20527%20-%20Down%20With%20The%20Q.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-01-18T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-526-hasta-la-vista-fascism/ALTH%20ep%20526%20-%20Hasta%20La%20Vista%2C%20Fascism.mp3</id>
     <title>Episode 526: Hasta La Vista, Fascism</title>
