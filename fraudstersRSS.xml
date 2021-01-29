@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-01-21T19:50:02.151534+00:00</updated>
+  <updated>2021-01-29T00:04:18.519454+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-23-race-hustlers-part-iv-white-ladies/fraud%20ep%2023%20-%20Race%20Hustlers%20Part%20IV%20%E2%80%93%20White%20Ladies.mp3</id>
+    <title>Episode 23: Race Hustlers Part IV – White Ladies</title>
+    <updated>2021-01-28T00:00:00+00:00</updated>
+    <content>We all remember the day Rachel Dolezal broke the internet in 2015, but at this point is it even surprising when we hear about a white lady pretending to be Black or Puerto Rican or Spanish? What drives a person to lie about something as fundamental as their racial or cultural identity? Today we're dissecting the appropriations and the non-apologies from Dolezal to Hilary "I vacationed once in Spain so I am Spanish" Baldwin - all for your listening pleasure. / Huge thanks to all the wonderful guests who joined us for this episode!! / Elena Romero - fashion, hip hop, and Latinx journalist. / Elisa Prosperetti - visiting professor of history at Mount Holyoke College. / Lauren Michele Jackson - author of White Negroes. Follow Lauren on Twitter @proseb4bros for more thoughts on culture and cultural appropriation.</content>
+    <link href="https://archive.org/download/fraud-episode-23-race-hustlers-part-iv-white-ladies/fraud%20ep%2023%20-%20Race%20Hustlers%20Part%20IV%20%E2%80%93%20White%20Ladies.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-01-28T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-22-race-hustlers-part-iii-holy-hotepery-still-dr-umar/fraud%20ep%2022%20-%20Race%20Hustlers%20Part%20III%20-%20Holy%20Hotepery%20%28still%20dr%20umar%29.mp3</id>
     <title>Episode 22: Race Hustlers Part III - Holy Hotepery! (still dr. umar)</title>
