@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-01-29T00:04:18.519454+00:00</updated>
+  <updated>2021-02-04T16:53:30.219611+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-24-race-hustlers-part-v/fraud%20ep%2024%20-%20Race%20Hustlers%20Part%20V%20%E2%80%93%20Two%20Cooke%E2%80%99s%20Cook%20Up%20a%20Fraudulent%20Bank%20for%20Freedmen.mp3</id>
+    <title>Episode 24: Race Hustlers Part V – Two Cooke’s Cook Up a Fraudulent Bank for Freedmen</title>
+    <updated>2021-02-04T00:00:00+00:00</updated>
+    <content>This is our last installment of our Race Hustlers series. If you haven't heard of the Freedman's Bank, you need to listen to this episode. / Special thanks to Mehrsa Baradaran for writing The Color of Money.</content>
+    <link href="https://archive.org/download/fraud-episode-24-race-hustlers-part-v/fraud%20ep%2024%20-%20Race%20Hustlers%20Part%20V%20%E2%80%93%20Two%20Cooke%E2%80%99s%20Cook%20Up%20a%20Fraudulent%20Bank%20for%20Freedmen.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-02-04T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-23-race-hustlers-part-iv-white-ladies/fraud%20ep%2023%20-%20Race%20Hustlers%20Part%20IV%20%E2%80%93%20White%20Ladies.mp3</id>
     <title>Episode 23: Race Hustlers Part IV – White Ladies</title>
