@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-02-01T01:36:45.501630+00:00</updated>
+  <updated>2021-02-08T05:10:21.234427+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-530-eagle-down-with-jessica-donati/ALTH%20ep%20530%20-%20Eagle%20Down%20with%20Jessica%20Donati.mp3</id>
+    <title>Episode 530: Eagle Down with Jessica Donati</title>
+    <updated>2021-02-08T00:00:00+00:00</updated>
+    <content>Ben and Travis are joined by journalist Jessica Donati to discuss her work in the Middle East, the forever war, and her book "Eagle Down: The Last Special Forces Fighting the Forever War".
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/alth-episode-530-eagle-down-with-jessica-donati/ALTH%20ep%20530%20-%20Eagle%20Down%20with%20Jessica%20Donati.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-02-08T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-529-benanon/ALTH%20ep%20529%20-%20BenAnon.mp3</id>
     <title>Episode 529: BenAnon</title>
