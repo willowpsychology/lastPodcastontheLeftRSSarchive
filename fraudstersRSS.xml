@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-02-11T14:44:55.180953+00:00</updated>
+  <updated>2021-02-18T15:54:57.022355+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-26-steven-hoffenberg-the-unsung-villain-of-fraudsters/fraud%20ep%2026%20-%20Steven%20Hoffenberg%2C%20the%20Unsung%20Villain%20of%20Fraudsters.mp3</id>
+    <title>Episode 26: Steven Hoffenberg, the Unsung Villain of Fraudsters</title>
+    <updated>2021-02-18T00:00:00+00:00</updated>
+    <content>You've heard of Jeffrey Epstein, Ghislaine Maxwell, Rudy Giuliani, Paul Manafort, Roger Stone, Rupert Murdoch, and Trump but have you heard of Steven Hoffenberg? This man was involved in so much insidious shit his defense of himself was insisting that he was just running a ponzi scheme! All that and more on today's episode.</content>
+    <link href="https://archive.org/download/fraud-episode-26-steven-hoffenberg-the-unsung-villain-of-fraudsters/fraud%20ep%2026%20-%20Steven%20Hoffenberg%2C%20the%20Unsung%20Villain%20of%20Fraudsters.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-02-18T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-25-valentines-day-special-catfish/fraud%20ep%2025%20-%20%E2%9D%A4%EF%B8%8FValentines%20Day%20Special%E2%9D%A4%EF%B8%8F%20%E2%80%93%20Catfish.mp3</id>
     <title>Episode 25: ❤️Valentines Day Special❤️ – Catfish</title>
