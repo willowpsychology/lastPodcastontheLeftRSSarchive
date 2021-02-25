@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-02-18T15:54:57.022355+00:00</updated>
+  <updated>2021-02-25T13:07:06.260115+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-27-king-parker-and-queen-chadwick-of-fraudistan/fraud%20ep%2027%20-%20King%20Parker%20and%20Queen%20Chadwick%20of%20Fraudistan.mp3</id>
+    <title>Episode 27: King Parker and Queen Chadwick of Fraudistan</title>
+    <updated>2021-02-25T00:00:00+00:00</updated>
+    <content>This week Seena and Justin take a trip back-in-time to the late 1800s to find the origin of the phrase "if you believe that, then I have a bridge to sell you" and who was the person the media called, the Queen of Swindlers. Big thanks to author Tori Telfer and her book "Confident Women: Swindlers, Grifters, and Shapeshifters of the Feminine Persuasion".</content>
+    <link href="https://archive.org/download/fraud-episode-27-king-parker-and-queen-chadwick-of-fraudistan/fraud%20ep%2027%20-%20King%20Parker%20and%20Queen%20Chadwick%20of%20Fraudistan.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-02-25T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-26-steven-hoffenberg-the-unsung-villain-of-fraudsters/fraud%20ep%2026%20-%20Steven%20Hoffenberg%2C%20the%20Unsung%20Villain%20of%20Fraudsters.mp3</id>
     <title>Episode 26: Steven Hoffenberg, the Unsung Villain of Fraudsters</title>
