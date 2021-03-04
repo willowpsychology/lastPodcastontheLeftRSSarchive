@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-02-25T13:07:06.260115+00:00</updated>
+  <updated>2021-03-04T15:33:38.539225+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-28-ruja-ignatova-part-i-the-rise-and-fall-of-onecoin/fraud%20ep%2028%20-%20Ruja%20Ignatova%20Part%20I%20%E2%80%93%20The%20Rise%20and%20Fall%20of%20OneCoin.mp3</id>
+    <title>Episode 28: Ruja Ignatova Part I – The Rise and Fall of OneCoin</title>
+    <updated>2021-03-04T00:00:00+00:00</updated>
+    <content/>
+    <link href="https://archive.org/download/fraud-episode-28-ruja-ignatova-part-i-the-rise-and-fall-of-onecoin/fraud%20ep%2028%20-%20Ruja%20Ignatova%20Part%20I%20%E2%80%93%20The%20Rise%20and%20Fall%20of%20OneCoin.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-03-04T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-27-king-parker-and-queen-chadwick-of-fraudistan/fraud%20ep%2027%20-%20King%20Parker%20and%20Queen%20Chadwick%20of%20Fraudistan.mp3</id>
     <title>Episode 27: King Parker and Queen Chadwick of Fraudistan</title>
