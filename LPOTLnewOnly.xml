@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-03-06T00:14:50.511950+00:00</updated>
+  <updated>2021-03-11T03:46:15.327972+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-legend-of-the-skelecaster/LPOTL%20SS%20-%20Legend%20of%20the%20Skelecaster.mp3</id>
+    <title>Side Stories: Legend of the Skelecaster</title>
+    <updated>2021-03-11T00:00:00+00:00</updated>
+    <content>This week, Ben and Henry speak to Prince Midnight, the man behind the legendary skeleton guitar. Plus, plenty of true crime stories.
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-side-stories-legend-of-the-skelecaster/LPOTL%20SS%20-%20Legend%20of%20the%20Skelecaster.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-03-11T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-relaxed-fit-the-ayahuasca-murders/LPOTL%20Relaxed%20Fit%20-%20The%20Ayahuasca%20Murders.mp3</id>
     <title>Relaxed Fit: The Ayahuasca Murders</title>
