@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-03-11T17:56:01.383869+00:00</updated>
+  <updated>2021-03-18T15:30:18.077596+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-30-wirecard-a-2-billion-donut-hole/fraud%20ep%2030%20-%20Wirecard%20%E2%80%93%20A%20%242%20Billion%20Donut%20Hole.mp3</id>
+    <title>Episode 30: Wirecard – A $2 Billion Donut Hole</title>
+    <updated>2021-03-18T00:00:00+00:00</updated>
+    <content>Today we're diving into Wirecard, a fictitious and spurious payment processing company out of Germany. We ask tough questions like "why do all fraudsters wear black turtlenecks?" and "is Kraftwerk just robots?" Huge thanks to NYT reporter Christopher Schuetze (@CFSchuetze on Twitter) for speaking to us for this episode.</content>
+    <link href="https://archive.org/download/fraud-episode-30-wirecard-a-2-billion-donut-hole/fraud%20ep%2030%20-%20Wirecard%20%E2%80%93%20A%20%242%20Billion%20Donut%20Hole.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-03-18T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-29-ruja-ignatova-part-ii-jen-mcadam-steps-up/fraud%20ep%2029%20-%20Ruja%20Ignatova%20Part%20II%20%E2%80%93%20Jen%20McAdam%20Steps%20Up.mp3</id>
     <title>Episode 29: Ruja Ignatova Part II – Jen McAdam Steps Up</title>
