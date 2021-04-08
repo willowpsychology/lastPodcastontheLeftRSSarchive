@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-04-01T14:44:58.767831+00:00</updated>
+  <updated>2021-04-08T14:53:29.331905+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-33-enron-part-ii-the-blackout-album/fraud%20ep%2033%20-%20Enron%20Part%20II%20%E2%80%93The%20Blackout%20Album.mp3</id>
+    <title>Episode 33: Enron Part II –The Blackout Album</title>
+    <updated>2021-04-08T00:00:00+00:00</updated>
+    <content/>
+    <link href="https://archive.org/download/fraud-episode-33-enron-part-ii-the-blackout-album/fraud%20ep%2033%20-%20Enron%20Part%20II%20%E2%80%93The%20Blackout%20Album.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-04-08T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-32-enron-part-i/fraud%20ep%2032%20-%20Enron%20Part%20I%20%E2%80%93%20Skilling%2C%20Lay%2C%20Fastow%2C%20and%20Causey%2C%20Four%20Horsemen%20of%20the%20Energypocalypse.mp3</id>
     <title>Episode 32: Enron Part I – Skilling, Lay, Fastow, and Causey, Four Horsemen of the Energypocalypse</title>
