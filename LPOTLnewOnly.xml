@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-04-10T07:01:47.042744+00:00</updated>
+  <updated>2021-04-14T20:02:10.718685+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-prancer/LPOTL%20SS%20-%20Prancer.mp3</id>
+    <title>Side Stories: Prancer</title>
+    <updated>2021-04-14T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: Prancer the demonic Chihuahua, a man molests Elmo, a game of hitman musical chairs, a man attacks a traffic cop with his own feces, and MUCH MORE. PS - Some audio issues with Henry's mic on this one. Back to normal next week. Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-side-stories-prancer/LPOTL%20SS%20-%20Prancer.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-04-14T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-episode-448-alcatraz-part-i-bird-is-the-word/LPOTL%20ep%20448%20-%20Alcatraz%20Part%20I%20-%20Bird%20Is%20the%20Word.mp3</id>
     <title>Episode 448: Alcatraz Part I - Bird Is the Word</title>
