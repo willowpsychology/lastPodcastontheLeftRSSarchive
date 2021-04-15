@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-04-08T14:53:29.331905+00:00</updated>
+  <updated>2021-04-15T16:05:17.028822+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-34-enron-part-iii-the-original-white-boy-summer/fraud%20ep%2034%20-%20Enron%20Part%20III%20%E2%80%93%20The%20Original%20White%20Boy%20Summer.mp3</id>
+    <title>Episode 34: Enron Part III – The Original White Boy Summer</title>
+    <updated>2021-04-15T00:00:00+00:00</updated>
+    <content>In today's episode we dig deeper into that California energy crisis and outline Enron's side hustle - broadband. / Special thanks to Collin Whitehead, a former Real-Time Trader in Enron's Portland office, for speaking to us for this episode.</content>
+    <link href="https://archive.org/download/fraud-episode-34-enron-part-iii-the-original-white-boy-summer/fraud%20ep%2034%20-%20Enron%20Part%20III%20%E2%80%93%20The%20Original%20White%20Boy%20Summer.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-04-15T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-33-enron-part-ii-the-blackout-album/fraud%20ep%2033%20-%20Enron%20Part%20II%20%E2%80%93The%20Blackout%20Album.mp3</id>
     <title>Episode 33: Enron Part II –The Blackout Album</title>
