@@ -2,10 +2,18 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>706ffb4b-5b46-461a-a205-da2f90852983</id>
   <title>Fraudsters</title>
-  <updated>2021-04-15T16:05:17.028822+00:00</updated>
+  <updated>2021-04-22T13:25:39.301144+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/fraudsters"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Fraudsters is an all-you-can-eat buffet of liars, cheaters, and scammers. Hosts Seena Ghaznavi and Justin Williams cover every flavor of fraud you can imagine from fake psychic hotlines to corporations cookin’ the books.</subtitle>
+  <entry>
+    <id>https://archive.org/download/fraud-episode-35-enron-part-iv/fraud%20ep%2035%20-%20Enron%20Part%20IV%20-%20Blowing%20the%20Whistle%20with%20Sherron%20Watkins%20%5BSEASON%20FINALE%5D.mp3</id>
+    <title>Episode 35: Enron Part IV - Blowing the Whistle with Sherron Watkins [SEASON FINALE]</title>
+    <updated>2021-04-22T00:00:00+00:00</updated>
+    <content>In part IV of our series on Enron, we reflect on the culture at a company that did so much damage. We wrap out this series as well as the season by talking to the incomparable Sherron Watkins - the whistleblower at Enron who brought the whole house of cards down. / Special thanks to Sherron for sharing her unbelievable and delightful anecdotes about this two-decade-old drama.</content>
+    <link href="https://archive.org/download/fraud-episode-35-enron-part-iv/fraud%20ep%2035%20-%20Enron%20Part%20IV%20-%20Blowing%20the%20Whistle%20with%20Sherron%20Watkins%20%5BSEASON%20FINALE%5D.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-04-22T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/fraud-episode-34-enron-part-iii-the-original-white-boy-summer/fraud%20ep%2034%20-%20Enron%20Part%20III%20%E2%80%93%20The%20Original%20White%20Boy%20Summer.mp3</id>
     <title>Episode 34: Enron Part III – The Original White Boy Summer</title>
