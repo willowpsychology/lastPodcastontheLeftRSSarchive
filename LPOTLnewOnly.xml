@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-04-22T01:11:21.855532+00:00</updated>
+  <updated>2021-04-24T06:20:34.366427+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-episode-450-alcatraz-part-iii-we-gotta-get-off-this-rock/LPOTL%20ep%20450%20-%20Alcatraz%20Part%20III%20-%20We%20Gotta%20Get%20Off%20This%20Rock.mp3</id>
+    <title>Episode 450: Alcatraz Part III - We Gotta Get Off This Rock</title>
+    <updated>2021-04-24T00:00:00+00:00</updated>
+    <content>On the final episode of our Alcatraz series, we tell the stories of the convicts who attempted the impossible: breaking out of the famously inescapable prison. Did anyone manage to fly the coop? Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-episode-450-alcatraz-part-iii-we-gotta-get-off-this-rock/LPOTL%20ep%20450%20-%20Alcatraz%20Part%20III%20-%20We%20Gotta%20Get%20Off%20This%20Rock.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-04-24T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-side-stories-croissant-cryptid/LPOTL%20SS%20-%20Croissant%20Cryptid.mp3</id>
     <title>Side Stories: Croissant Cryptid</title>
