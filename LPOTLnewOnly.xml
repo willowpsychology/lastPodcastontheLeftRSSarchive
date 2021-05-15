@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-05-13T01:37:07.721690+00:00</updated>
+  <updated>2021-05-15T00:41:03.745477+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-episode-452-danny-rolling-part-i-i-need-a-job/LPOTL%20ep%20452%20-%20Danny%20Rolling%20Part%20I%20-%20I%20Need%20a%20Job.mp3</id>
+    <title>Episode 452: Danny Rolling Part I - I Need a Job</title>
+    <updated>2021-05-14T00:00:00+00:00</updated>
+    <content>This week, we begin our two-part series on Danny Rolling AKA The Gainesville Ripper and explore the bleak origins of a deluded failure who would later go on a terrifying rampage at the University of Florida.
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-episode-452-danny-rolling-part-i-i-need-a-job/LPOTL%20ep%20452%20-%20Danny%20Rolling%20Part%20I%20-%20I%20Need%20a%20Job.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-05-14T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-side-stories-the-cannibal-killer-of-ventas/LPOTL%20SS%20-%20The%20Cannibal%20Killer%20of%20Ventas.mp3</id>
     <title>Side Stories: The Cannibal Killer of Ventas</title>
