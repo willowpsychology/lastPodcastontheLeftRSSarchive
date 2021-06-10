@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-06-06T19:48:28.673812+00:00</updated>
+  <updated>2021-06-10T02:05:07.930209+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-548-fighting-the-good-fight-w_-donte-west/ALTH%20ep%20548%20-%20Fighting%20the%20Good%20Fight%20w_%20Donte%20West.mp3</id>
+    <title>Episode 548: Fighting the Good Fight w/ Donte West</title>
+    <updated>2021-06-09T00:00:00+00:00</updated>
+    <content>Ben, Fernando, and Travis return to discuss this week's Political News and ask the question: What's going on with Trump's pants?! Also we're joined by Anti Incarceration Advocate Donte West of the Last Prisoner Project to discuss his experience with the Criminal Justice System, Marijuana law reform, and the the Last Prisoner Project's mission to help free those incarcerated for Marijuana related arrests. To Find out more please visit: https://www.lastprisonerproject.org/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/alth-episode-548-fighting-the-good-fight-w_-donte-west/ALTH%20ep%20548%20-%20Fighting%20the%20Good%20Fight%20w_%20Donte%20West.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-06-09T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-547-swiss-army-mania/ALTH%20ep%20547%20-%20Swiss%20Army%20Mania.mp3</id>
     <title>Episode 547: Swiss Army Mania</title>
