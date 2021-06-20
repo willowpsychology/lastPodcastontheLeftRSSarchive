@@ -2,11 +2,23 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-06-10T02:05:07.930209+00:00</updated>
+  <updated>2021-06-20T08:44:38.889660+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-549-the-chicken-or-the-egg-w_-salim-essaid/ALTH%20ep%20549%20-%20The%20Chicken%20or%20the%20Egg%20w_%20Salim%20Essaid.mp3</id>
+    <title>Episode 549: The Chicken or the Egg w/ Salim Essaid</title>
+    <updated>2021-06-20T00:00:00+00:00</updated>
+    <content>Ben, Fernando, and Travis breakdown the week's political headlines including Top Hat listeners answering the literal call to action against Larry Householder, the possibility/consequences of the virus being the result of a lab accident, Juneteenth/Critical Race Theory in America, as well as an in depth discussion with TV Reporter and Journalist, Salim Essaid about the ongoing struggle of life in Palestine.
+About our guest: Instagram: https://www.instagram.com/salim_essaid/
+Twitter:
+https://twitter.com/salimessaid LinkedIn: https://www.linkedin.com/in/salimessaid/
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/alth-episode-549-the-chicken-or-the-egg-w_-salim-essaid/ALTH%20ep%20549%20-%20The%20Chicken%20or%20the%20Egg%20w_%20Salim%20Essaid.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-06-20T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-548-fighting-the-good-fight-w_-donte-west/ALTH%20ep%20548%20-%20Fighting%20the%20Good%20Fight%20w_%20Donte%20West.mp3</id>
     <title>Episode 548: Fighting the Good Fight w/ Donte West</title>
