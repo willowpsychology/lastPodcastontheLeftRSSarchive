@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-07-14T22:20:16.916837+00:00</updated>
+  <updated>2021-07-16T22:00:10.106766+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-relaxed-fit-the-moonshaft/LPOTL%20Relaxed%20Fit%20-%20The%20Moonshaft.mp3</id>
+    <title>Relaxed Fit: The Moonshaft</title>
+    <updated>2021-07-16T00:00:00+00:00</updated>
+    <content>On this Relaxed Fit episode, we descend into the Moonshaft — AKA the Mooncave — a discovery made in the Slovakian Mountains by a WWI-era soldier named Antonin Horak. But what wonders await us in this mysterious hole? Mothman's Red Eye Blend Coffee: https://lastpodcastmerch.com/products/mothmans-red-eye-blend Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/lpotl-relaxed-fit-the-moonshaft/LPOTL%20Relaxed%20Fit%20-%20The%20Moonshaft.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-07-16T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-side-stories-pact-with-the-devil/LPOTL%20SS%20-%20Pact%20With%20The%20Devil.mp3</id>
     <title>Side Stories: Pact With The Devil</title>
