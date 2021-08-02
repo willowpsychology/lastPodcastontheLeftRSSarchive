@@ -2,11 +2,21 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>8b2a916a-466a-4dd5-85ef-9632d71936b8</id>
   <title>Wizard and the Bruiser</title>
-  <updated>2021-07-26T12:43:26.261651+00:00</updated>
+  <updated>2021-08-02T13:23:56.049819+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/wizard-and-the-bruiser"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ssl-static.libsyn.com/p/assets/a/2/c/e/a2ce060aa9ac379d/avatars-000482263881-pnkrae-original.jpg</logo>
   <subtitle>Holden McNeely and Jake Young are your guides on a psychotropic journey into the secret origins of nerd culture. Fill your ears with education each week  as the hosts tackle subjects from the worlds of comic books, video games, anime and film. Untold stories, bizarre facts and crazed deconstructions will fly at you at dangerous speeds, do not listen if you are pregnant or nursing. Make no mistake, this IS the sweatiest podcast in human history.</subtitle>
+  <entry>
+    <id>https://archive.org/download/wizbru-summer-patreon-sampler-part-deux-91-92-93-/WATB%20-%20Summer%20Patreon%20Sampler%20-%20Part%20Deux%20%2891%2C%2092%2C%2093%29.mp3</id>
+    <title>Summer Patreon Sampler: Part Deux! ('91, '92, '93)</title>
+    <updated>2021-08-02T00:00:00+00:00</updated>
+    <content>The vacay continues! So here is another 3 episode sampler of our Year That Was Series from our Patreon feed!
+Want even more WizBru? Support us on Patreon! Patreon.com/WizBru
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/wizbru-summer-patreon-sampler-part-deux-91-92-93-/WATB%20-%20Summer%20Patreon%20Sampler%20-%20Part%20Deux%20%2891%2C%2092%2C%2093%29.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-08-02T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/wizbru-summer-patreon-sampler-07-08-09-/WATB%20-%20Summer%20Patreon%20Sampler%20%2807%2C%2008%2C%2009%29.mp3</id>
     <title>Summer Patreon Sampler ('07, '08, '09)</title>
