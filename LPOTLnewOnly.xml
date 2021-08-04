@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-07-30T14:28:31.544403+00:00</updated>
+  <updated>2021-08-04T15:58:14.933736+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-father-of-cheddar-goblin/LPOTL%20SS%20-%20Father%20of%20Cheddar%20Goblin.mp3</id>
+    <title>Side Stories: Father of Cheddar Goblin</title>
+    <updated>2021-08-04T00:00:00+00:00</updated>
+    <content>This week, Ben 'n' Henry talk to SFX master Shane Morton about his creation Cheddar Goblin, classic horror monsters, and the allure of Godzilla. Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/lpotl-side-stories-father-of-cheddar-goblin/LPOTL%20SS%20-%20Father%20of%20Cheddar%20Goblin.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-08-04T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-best-of-cults/LPOTL%20Best%20Of%20-%20Cults.mp3</id>
     <title>Best Of: Cults</title>
