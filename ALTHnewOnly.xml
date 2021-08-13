@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-08-11T17:30:28.077097+00:00</updated>
+  <updated>2021-08-13T16:37:21.019871+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-560-the-stories-of-us-w_-ken-burns/ALTH%20ep%20560%20-%20The%20Stories%20of%20US%20w_%20Ken%20Burns.mp3</id>
+    <title>Episode 560: The Stories of U.S. w/ Ken Burns</title>
+    <updated>2021-08-13T00:00:00+00:00</updated>
+    <content>In this very special interview, Ben, Travis, and Fernando sit down with acclaimed documentarian and film maker Ken Burns to discuss his new project Muhammad Ali and the important story that inspired the four part series premiering on PBS September 19th.
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/alth-episode-560-the-stories-of-us-w_-ken-burns/ALTH%20ep%20560%20-%20The%20Stories%20of%20US%20w_%20Ken%20Burns.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-08-13T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-559-the-united-states-of-amazon/ALTH%20ep%20559%20-%20The%20United%20States%20of%20Amazon.mp3</id>
     <title>Episode 559: The United States of Amazon</title>
