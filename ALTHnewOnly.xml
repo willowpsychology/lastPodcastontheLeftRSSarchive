@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-08-19T08:10:21.437599+00:00</updated>
+  <updated>2021-08-21T07:39:48.265118+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-562-the-finger-of-doom/ALTH%20ep%20562%20-%20The%20Finger%20of%20Doom.mp3</id>
+    <title>Episode 562: The Finger of Doom</title>
+    <updated>2021-08-21T00:00:00+00:00</updated>
+    <content>Ben, Travis, and Fernando dive into the rest of this week's headlines including the so-called "attack" on MyPillow CEO Mike Lindell, Facebook bomb threats leading to an arrest on Capitol Hill, Automated Speeding Tickets in Chicago, and the controversial news that OnlyFans will be restricting Sexual Content from it's platform.
+Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/alth-episode-562-the-finger-of-doom/ALTH%20ep%20562%20-%20The%20Finger%20of%20Doom.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-08-21T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-561-spoils-of-the-forever-war-w_-saman-arbabi/ALTH%20ep%20561%20-%20Spoils%20of%20the%20Forever%20War%20w_%20Saman%20Arbabi.mp3</id>
     <title>Episode 561: Spoils of the Forever War w/ Saman Arbabi</title>
