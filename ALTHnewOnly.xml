@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-08-26T02:25:43.434029+00:00</updated>
+  <updated>2021-08-27T21:38:03.114576+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-564-in-the-thick-of-it/ALTH%20ep%20564%20-%20In%20the%20Thick%20of%20It.mp3</id>
+    <title>Episode 564: In the Thick of It</title>
+    <updated>2021-08-27T00:00:00+00:00</updated>
+    <content>In this week's follow-up Top Hat, Ben, Travis, and Fernando discuss US Weapons left in Taliban hands, the recent online drama surrounding Roger Stone's accidental ban from the Gettr App, Gavin Newsome and California's Stimulus Checks, a man on "Mail Bender" found with 300 recall ballots, Covid Death Toll Corrections, and the upcoming face reveal of the Officer involved in shooting during January's Capitol Riot's.  Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/alth-episode-564-in-the-thick-of-it/ALTH%20ep%20564%20-%20In%20the%20Thick%20of%20It.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-08-27T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-563-a-man-and-his-dog/ALTH%20ep%20563%20-%20A%20Man%20and%20His%20Dog.mp3</id>
     <title>Episode 563: A Man and His Dog</title>
