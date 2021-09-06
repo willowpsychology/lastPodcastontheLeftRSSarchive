@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-09-03T07:35:54.233839+00:00</updated>
+  <updated>2021-09-06T22:07:18.523115+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-566-statists-gonna-state/ALTH%20ep%20566%20-%20Statists%20Gonna%20State.mp3</id>
+    <title>Episode 566: Statists Gonna' State</title>
+    <updated>2021-09-04T00:00:00+00:00</updated>
+    <content>Ben, Travis, and Fernando are back with this week's follow-up Top Hat to discuss the top headline stories including the Indictiment of the Police Officers involved in the death of Elijah Mcclain, the Texas Abortion Ban, China's enforced Masculinization, an update on the situation in Afghanistan, Caitlyn Jenner
+Deblasio's election attempts and MORE in this loaded episode!  Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/alth-episode-566-statists-gonna-state/ALTH%20ep%20566%20-%20Statists%20Gonna%20State.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-09-04T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-565-a-voice-from-the-inside-w_-larry-lawton/ALTH%20ep%20565%20-%20A%20Voice%20from%20The%20Inside%20w_%20Larry%20Lawton.mp3</id>
     <title>Episode 565: A Voice from The Inside w/ Larry Lawton</title>
