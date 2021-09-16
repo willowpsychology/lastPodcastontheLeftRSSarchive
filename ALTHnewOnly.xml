@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-09-12T16:18:39.343025+00:00</updated>
+  <updated>2021-09-16T06:34:17.841619+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-569-the-mute-button/ALTH%20ep%20569%20-%20The%20Mute%20Button.mp3</id>
+    <title>Episode 569: The Mute Button</title>
+    <updated>2021-09-16T00:00:00+00:00</updated>
+    <content>Ben, Travis, and Fernando break down this week's political stories including Gavin Newsom surviving the California Recall, General Milley's secret talks with China, Antony Blinken defending the Afghan withdrawal, former National Security Officials speaking out against Antitrust Laws, AOC at the Met Gala, and a tribute to the late, great, Norm MacDonald.Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/alth-episode-569-the-mute-button/ALTH%20ep%20569%20-%20The%20Mute%20Button.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-09-16T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-568-twenty-years-gone-w_-george-w-bush-james-adomian-/ALTH%20ep%20568%20-%20Twenty%20Years%20Gone%20w_%20George%20W%20Bush%20%28James%20Adomian%29.mp3</id>
     <title>Episode 568: Twenty Years Gone w/ George W. Bush (James Adomian)</title>
