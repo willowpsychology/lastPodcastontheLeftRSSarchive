@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-09-17T22:26:31.220789+00:00</updated>
+  <updated>2021-09-23T00:45:42.790126+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-bean-bandits/LPOTL%20SS%20-%20Bean%20Bandits.mp3</id>
+    <title>Side Stories: Bean Bandits</title>
+    <updated>2021-09-22T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime news: bean bandits strike fear in the hearts of the UK citizenry, a Robert Durst update, sex robot philosophy, a pedophile judge eats a bunch of SD cards, and MUCH MORE.Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-side-stories-bean-bandits/LPOTL%20SS%20-%20Bean%20Bandits.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-09-22T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-episode-467-rodney-alcala-part-ii-bananas-for-dinner/LPOTL%20ep%20467%20-%20Rodney%20Alcala%20Part%20II%20-%20Bananas%20For%20Dinner.mp3</id>
     <title>Episode 467: Rodney Alcala Part II - Bananas For Dinner</title>
