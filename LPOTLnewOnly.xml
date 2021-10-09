@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-10-06T20:25:35.315904+00:00</updated>
+  <updated>2021-10-09T06:28:25.436090+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-episode-469-mike-warnke-part-ii-welcome-to-satanville/LPOTL%20ep%20469%20-%20Mike%20Warnke%20Part%20II%20-%20Welcome%20to%20Satanville.mp3</id>
+    <title>Episode 469: Mike Warnke Part II - Welcome to Satanville</title>
+    <updated>2021-10-08T00:00:00+00:00</updated>
+    <content>On part two of our Warnke series, we discuss how exactly Mike Warnke sold his Satanic high priest story to the Evangelical crowd for 20 years, and how his influence helped to kickstart the Satanic Panic of the eighties and nineties.Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-episode-469-mike-warnke-part-ii-welcome-to-satanville/LPOTL%20ep%20469%20-%20Mike%20Warnke%20Part%20II%20-%20Welcome%20to%20Satanville.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-10-08T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-side-stories-take-the-money-and-run/LPOTL%20SS%20-%20Take%20the%20Money%20and%20Run.mp3</id>
     <title>Side Stories: Take the Money and Run</title>
