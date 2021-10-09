@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-10-02T21:16:29.870354+00:00</updated>
+  <updated>2021-10-09T06:23:25.265737+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-575-cough-it-up/ALTH%20ep%20575%20-%20Cough%20It%20Up.mp3</id>
+    <title>Episode 575: Cough It Up</title>
+    <updated>2021-10-09T00:00:00+00:00</updated>
+    <content>Ben, Fernando, and Travis breakdown this week's headlines including the COVID-19 Pill fiasco as Merck charges the U.S. a 400% markup, Judge Robert Pitman suspending SB8 in Texas, One America News and it's relationship with AT&amp;T, attention on Trump continuing to fade, the CIA finds itself in hot water over the Abu Zubaydah torture scandal, the CIA's new China Center, and Andrew Yang's new "Forward Party".Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/alth-episode-575-cough-it-up/ALTH%20ep%20575%20-%20Cough%20It%20Up.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-10-09T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-574-i-eat-ass/ALTH%20ep%20574%20-%20I%20EAT%20ASS.mp3</id>
     <title>Episode 574: I EAT ASS</title>
