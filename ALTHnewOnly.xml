@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-10-16T04:27:25.613402+00:00</updated>
+  <updated>2021-10-21T20:26:16.903630+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-579-livin-on-a-prayer/ALTH%20ep%20579%20-%20Livin%20on%20a%20Prayer.mp3</id>
+    <title>Episode 579: Livin' on a Prayer</title>
+    <updated>2021-10-21T00:00:00+00:00</updated>
+    <content>Ben, Travis, and Fernando break down this week's headlines including faith leaders holding a prayer vigil for the 3.5 trillion dollar infrastructure bill - also following up on last week's story, Texas school boards clarify their stance on teaching opposing views for the holocaust, the NAACP pushes for AT&amp;T to end One America News, GOP blocking voting rights bills, Schumer siding with the republicans, Bannon held in contempt, and Rudy Guiliani channeling the ghost of Abe Lincoln himself!Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/alth-episode-579-livin-on-a-prayer/ALTH%20ep%20579%20-%20Livin%20on%20a%20Prayer.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-10-21T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-578-my-ladybugs/ALTH%20ep%20578%20-%20My%20Ladybugs.mp3</id>
     <title>Episode 578: My Ladybugs</title>
