@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>8b2a916a-466a-4dd5-85ef-9632d71936b8</id>
   <title>Wizard and the Bruiser</title>
-  <updated>2021-10-18T20:10:53.216659+00:00</updated>
+  <updated>2021-10-25T20:13:58.926602+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/wizard-and-the-bruiser"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ssl-static.libsyn.com/p/assets/a/2/c/e/a2ce060aa9ac379d/avatars-000482263881-pnkrae-original.jpg</logo>
   <subtitle>Holden McNeely and Jake Young are your guides on a psychotropic journey into the secret origins of nerd culture. Fill your ears with education each week  as the hosts tackle subjects from the worlds of comic books, video games, anime and film. Untold stories, bizarre facts and crazed deconstructions will fly at you at dangerous speeds, do not listen if you are pregnant or nursing. Make no mistake, this IS the sweatiest podcast in human history.</subtitle>
+  <entry>
+    <id>https://archive.org/download/wizbru-what-we-do-in-the-shadows/WATB%20-%20What%20We%20Do%20in%20the%20Shadows.mp3</id>
+    <title>What We Do in the Shadows</title>
+    <updated>2021-10-25T00:00:00+00:00</updated>
+    <content>Happy Halloween and break out the creepy paper, it's time to sink our fangs into the deep history of What We Do in the Shadows!Want even more WizBru? Support us on Patreon! Patreon.com/WizBruKevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/wizbru-what-we-do-in-the-shadows/WATB%20-%20What%20We%20Do%20in%20the%20Shadows.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-10-25T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/wizbru-scp-foundation/WATB%20-%20SCP%20Foundation.mp3</id>
     <title>SCP Foundation</title>
