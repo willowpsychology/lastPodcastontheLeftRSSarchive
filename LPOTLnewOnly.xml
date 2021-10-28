@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-10-22T21:36:35.408626+00:00</updated>
+  <updated>2021-10-28T05:23:53.465654+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-creepypasta-xvi-pigman/LPOTL%20SS%20-%20Creepypasta%20XVI%20-%20Pigman.mp3</id>
+    <title>Side Stories: Creepypasta XVI - Pigman</title>
+    <updated>2021-10-28T00:00:00+00:00</updated>
+    <content>Marcus joins Ben 'n' Henry to read a slew of Creepypasta stories involving horse-men, Squidward, cryptid love, and MUCH MORE.Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/lpotl-side-stories-creepypasta-xvi-pigman/LPOTL%20SS%20-%20Creepypasta%20XVI%20-%20Pigman.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-10-28T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-episode-471-karla-homolka-and-paul-bernardo-part-ii-deadly-innocence/LPOTL%20ep%20471%20-%20Karla%20Homolka%20%26%20Paul%20Bernardo%20Part%20II%20-%20Deadly%20Innocence.mp3</id>
     <title>Episode 471: Karla Homolka &amp; Paul Bernardo Part II - Deadly Innocence</title>
