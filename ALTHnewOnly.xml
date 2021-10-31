@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-10-27T17:26:55.081202+00:00</updated>
+  <updated>2021-10-31T02:29:59.053481+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-582-keepin-it-objective-w_-ford-fischer/ALTH%20ep%20582%20-%20Keepin%20It%20Objective%20w_%20Ford%20Fischer.mp3</id>
+    <title>Episode 582: Keepin' It Objective w/ Ford Fischer</title>
+    <updated>2021-10-31T00:00:00+00:00</updated>
+    <content>Ben, Fernando, and Travis welcome guest Ford Fischer, Independent Videographer and co-founder of News2share.com, to discuss the importance of objectivity in journalism as well as his experiences working as a citizen journalist during the Unite the Right Rally and the January 6th Insurrection.Ford Fischer is an independent videographer, editor, and computer scientist/web designer. He co-founded and designed News2share.com as an engine for independent videographers and citizen journalists to contribute to the evolving news cycle. He is the editor-in-chief of News2Share. His work has been featured on CNN, Fox, MSNBC, ABC and more. He is currently directing News2Share’s first feature film and is available for hire as a freelance videographer/journalist. Reach him at fordfischervideo@gmail.com Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/alth-episode-582-keepin-it-objective-w_-ford-fischer/ALTH%20ep%20582%20-%20Keepin%20It%20Objective%20w_%20Ford%20Fischer.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-10-31T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-581-whiplash/ALTH%20ep%20581%20-%20Whiplash.mp3</id>
     <title>Episode 581: Whiplash</title>
