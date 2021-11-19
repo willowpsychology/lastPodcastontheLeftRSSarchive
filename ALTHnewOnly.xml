@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-11-12T00:42:37.965237+00:00</updated>
+  <updated>2021-11-19T05:20:37.789597+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-586-the-right-thing/ALTH%20ep%20586%20-%20The%20Right%20Thing.mp3</id>
+    <title>Episode 586: The Right Thing</title>
+    <updated>2021-11-19T00:00:00+00:00</updated>
+    <content>Ben, Travis, and Fernando bring you this week’s headlines including Julius Jones &amp; his fate in the hands of an Oklahoma Governor, Alex Jones Liable in Sandyhook Case, Infrastructure Bill success, Beto O'Rourke in Texas, Liz Cheney ousted, Gosar vs. AOC, Proud Boy
+Q-Shaman Jail Updates, A.I. Lie Detection in Court, and MORE!Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0</content>
+    <link href="https://archive.org/download/alth-episode-586-the-right-thing/ALTH%20ep%20586%20-%20The%20Right%20Thing.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-11-19T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-585-in-the-midst-of-history-w_-donte-west/ALTH%20ep%20585%20-%20In%20the%20Midst%20of%20History%20w_%20Donte%20West.mp3</id>
     <title>Episode 585: In the Midst of History w/ Donte West</title>
