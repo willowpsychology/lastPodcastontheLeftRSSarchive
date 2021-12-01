@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2021-11-26T14:44:52.760100+00:00</updated>
+  <updated>2021-12-01T16:35:07.677233+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-cocaine-snowman/LPOTL%20SS%20-%20Cocaine%20Snowman.mp3</id>
+    <title>Side Stories: Cocaine Snowman</title>
+    <updated>2021-12-01T00:00:00+00:00</updated>
+    <content>Ben 'n' Henry break down this week's true crime stories: a cocaine-loving snowman toy, an axe murder at a lumber yard, a woman gets a restraining order for feeding carrots to a horse, and MUCH MORE.Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/lpotl-side-stories-cocaine-snowman/LPOTL%20SS%20-%20Cocaine%20Snowman.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-12-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-my-best-friends-exorcism-an-interview-with-grady-hendrix/LPOTL%20My%20Best%20Friends%20Exorcism%20-%20An%20Interview%20with%20Grady%20Hendrix.mp3</id>
     <title>My Best Friend's Exorcism: An Interview with Grady Hendrix</title>
