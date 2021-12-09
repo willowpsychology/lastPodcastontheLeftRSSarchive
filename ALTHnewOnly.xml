@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2021-12-02T18:56:06.846132+00:00</updated>
+  <updated>2021-12-09T00:58:01.424911+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-590-the-usual-suspects/ALTH%20ep%20590%20-%20The%20Usual%20Suspects.mp3</id>
+    <title>Episode 590: The Usual Suspects</title>
+    <updated>2021-12-08T00:00:00+00:00</updated>
+    <content>This week Ben, Travis, and Fernando break down the news including Biden signing more gas permits than Trump, the CIA
+Bitcoin Conspiracy, Fetterman vs. Dr. Oz for Pennsylvania Senate, Moderna and Pfizer getting rich off Vaccines, private company Vax Mandates in NYC, Mark Meadows not speaking with Jan 6th council, Devin Nunes stepping down to work for Trump, and parents facing charges in Michigan School shooting incident.Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/alth-episode-590-the-usual-suspects/ALTH%20ep%20590%20-%20The%20Usual%20Suspects.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2021-12-08T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-589-flipping-flailing-and-flatulating/ALTH%20ep%20589%20-%20Flipping%2C%20Flailing%2C%20and%20Flatulating.mp3</id>
     <title>Episode 589: Flipping, Flailing, and Flatulating</title>
