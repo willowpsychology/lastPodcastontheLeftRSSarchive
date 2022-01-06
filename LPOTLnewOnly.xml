@@ -2,11 +2,20 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2022-01-01T05:19:05.256223+00:00</updated>
+  <updated>2022-01-06T03:46:34.017049+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-side-stories-squirrels-gone-wild/LPOTL%20SS%20-%20Squirrels%20Gone%20Wild.mp3</id>
+    <title>Side Stories: Squirrels Gone Wild</title>
+    <updated>2022-01-05T00:00:00+00:00</updated>
+    <content>Ben 'N' Henry break down this week's true crime stories: Prince Andrew denying sexual assault charges with a sweat-less alibi, Jizz-Laine Maxwell being sentenced, a Psycho Squirrel rampage in the UK, John Ramirez and the CIA
+ET connection, an Irish man mistaking Romanian Palace of Parliment for Hotel, HAM SNIFFERS and MUCH MORE! Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/lpotl-side-stories-squirrels-gone-wild/LPOTL%20SS%20-%20Squirrels%20Gone%20Wild.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2022-01-05T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-episode-477-elizabeth-klarer-push-the-red-button/LPOTL%20ep%20477%20-%20Elizabeth%20Klarer%20-%20Push%20The%20Red%20Button.mp3</id>
     <title>Episode 477: Elizabeth Klarer - Push The Red Button</title>
