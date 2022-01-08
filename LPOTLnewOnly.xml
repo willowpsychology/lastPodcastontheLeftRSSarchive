@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>071b3da9-9d6b-4d47-a546-8fceaefa7c20</id>
   <title>Last Podcast On The Left (Only new eps)</title>
-  <updated>2022-01-06T03:46:34.017049+00:00</updated>
+  <updated>2022-01-08T06:58:14.899141+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Last+Podcast+On+The+Left"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://archive.org/download/LPotLPodcast/folder.jpg</logo>
   <subtitle>The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.</subtitle>
+  <entry>
+    <id>https://archive.org/download/lpotl-episode-478-juana-barraza-la-mataviejitas/LPOTL%20ep%20478%20-%20Juana%20Barraza%20-%20La%20Mataviejitas.mp3</id>
+    <title>Episode 478: Juana Barraza - La Mataviejitas</title>
+    <updated>2022-01-07T00:00:00+00:00</updated>
+    <content>This week the boys don their detective caps yet again, breaking down a case that might not be as pinned down as it seems. It's time for one of Mexico's most famous alleged serial killers, the lucha libre slayer, Juana Barraza a.k.a. "La Mataviejitas" a.k.a. The Little Old Lady Killer. Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/lpotl-episode-478-juana-barraza-la-mataviejitas/LPOTL%20ep%20478%20-%20Juana%20Barraza%20-%20La%20Mataviejitas.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2022-01-07T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/lpotl-side-stories-squirrels-gone-wild/LPOTL%20SS%20-%20Squirrels%20Gone%20Wild.mp3</id>
     <title>Side Stories: Squirrels Gone Wild</title>
