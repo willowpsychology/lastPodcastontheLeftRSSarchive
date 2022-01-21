@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>731e6c6d-cf9d-40b3-a06e-da0fa4639faf</id>
   <title>Abe Lincoln's Top Hat (Only new eps)</title>
-  <updated>2022-01-13T05:45:28.653543+00:00</updated>
+  <updated>2022-01-21T02:38:30.899662+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/blog/category/Abe+Lincoln's+Top+Hat"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://i1.sndcdn.com/avatars-000481794615-8fwjwn-original.jpg</logo>
   <subtitle>Politics! We know you love them just as much as we do. Join political commentator Ben Kissel and radio man Marcus Parks each week as they discuss what's going on in politics and the world of social issues.</subtitle>
+  <entry>
+    <id>https://archive.org/download/alth-episode-598-incommunicado/ALTH%20ep%20598%20-%20Incommunicado.mp3</id>
+    <title>Episode 598: Incommunicado</title>
+    <updated>2022-01-20T00:00:00+00:00</updated>
+    <content>Ben, Fernando, and Travis are breakin' down this week's political news including new Supreme Court vaccine mandates, Trump twisting the facts about how different races are treated for COVID, The Good Liars find Nazi's on Mars, Jordan Klepper &amp; John Kasich's new Podcast, U.S. Senate Candidate Gary Chambers going viral for for Marijuana Legalization, and more Senate, Filibuster, and Voting Rights Discussion, all in this week's healthy first dose of Top Hat.Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/alth-episode-598-incommunicado/ALTH%20ep%20598%20-%20Incommunicado.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2022-01-20T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/alth-episode-597-doa/ALTH%20ep%20597%20-%20DOA.mp3</id>
     <title>Episode 597: DOA</title>
