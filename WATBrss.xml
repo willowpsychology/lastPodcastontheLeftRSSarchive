@@ -2,11 +2,19 @@
 <feed xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>8b2a916a-466a-4dd5-85ef-9632d71936b8</id>
   <title>Wizard and the Bruiser</title>
-  <updated>2022-01-17T20:04:44.159244+00:00</updated>
+  <updated>2022-01-24T21:34:56.534589+00:00</updated>
   <link href="https://www.lastpodcastnetwork.com/wizard-and-the-bruiser"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ssl-static.libsyn.com/p/assets/a/2/c/e/a2ce060aa9ac379d/avatars-000482263881-pnkrae-original.jpg</logo>
   <subtitle>Holden McNeely and Jake Young are your guides on a psychotropic journey into the secret origins of nerd culture. Fill your ears with education each week  as the hosts tackle subjects from the worlds of comic books, video games, anime and film. Untold stories, bizarre facts and crazed deconstructions will fly at you at dangerous speeds, do not listen if you are pregnant or nursing. Make no mistake, this IS the sweatiest podcast in human history.</subtitle>
+  <entry>
+    <id>https://archive.org/download/wizbru-xenoblade-saga/WATB%20-%20Xenoblade%20Saga.mp3</id>
+    <title>Xenoblade Saga</title>
+    <updated>2022-01-24T00:00:00+00:00</updated>
+    <content>This week Holden and Jake are really feeling it(!) as they dive into the mythos and making of the Xeno series.Want even more WizBru? Support us on Patreon! Patreon.com/WizBruKevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content>
+    <link href="https://archive.org/download/wizbru-xenoblade-saga/WATB%20-%20Xenoblade%20Saga.mp3" rel="enclosure" type="audio/mpeg"/>
+    <published>2022-01-24T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://archive.org/download/wizbru-green-lantern/WATB%20-%20Green%20Lantern.mp3</id>
     <title>Green Lantern</title>
